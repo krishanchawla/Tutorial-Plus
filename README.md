@@ -8,3 +8,7 @@ A PHP Based project for college students
 2. Members Area
 3. Dashboard System
 4. Review System
+
+![Alt text](/img/img_1.png?raw=true "Optional Title")
+
+If you need documentation for the project, send me an email to: krishanchawla1467@gmail.com
