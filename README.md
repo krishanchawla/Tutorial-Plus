@@ -11,4 +11,4 @@ A PHP Based project for college students
 
 ![Alt text](/img/img_1.png?raw=true "Optional Title")
 
-If you need documentation for the project, send me an email to: krishanchawla1467@gmail.com
+Documentation related to project are added in 'Documentation' folder. If you need any help regarding the project please send me an email to: krishanchawla1467@gmail.com
